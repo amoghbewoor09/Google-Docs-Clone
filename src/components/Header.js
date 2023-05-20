@@ -19,43 +19,43 @@ function Header() {
     <>
       <div className='container p-3 d-flex' style={{ borderRadius: '50px', backgroundColor: 'rgb(241,241,241)', gap: '0.5rem', marginLeft: '2rem', width: '1600px', height: '2rem', alignItems: 'center' }}>
         <span>
-          <img src={undo} style={{ height: '1.4rem' }} className="hover-image" />
+          <img src={undo} style={{ height: '1.4rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={redo} style={{ height: '1.5rem' }} className="hover-image" />
+          <img src={redo} style={{ height: '1.5rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={print} style={{ height: '1.5rem' }} className="hover-image" />
+          <img src={print} style={{ height: '1.5rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={A} style={{ height: '1.5rem' }} className="hover-image" />
+          <img src={A} style={{ height: '1.5rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={brush} style={{ height: '1.5rem' }} className="hover-image" />
+          <img src={brush} style={{ height: '1.5rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={hundred} style={{ height: '1.5rem' }} className="hover-image" />
+          <img src={hundred} style={{ height: '1.5rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={normal} style={{ height: '1.5rem' }} className="hover-image" />
+          <img src={normal} style={{ height: '1.5rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={arial} style={{ height: '1.5rem' }} className="hover-image" />
+          <img src={arial} style={{ height: '1.5rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={eleven} style={{ height: '1.5rem' }} className="hover-image" />
+          <img src={eleven} style={{ height: '1.5rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={bold} style={{ height: '1.9rem' }} className="hover-image" />
+          <img src={bold} style={{ height: '1.9rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={link} style={{ height: '1.9rem' }} className="hover-image" />
+          <img src={link} style={{ height: '1.9rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={align} style={{ height: '1.9rem' }} className="hover-image" />
+          <img src={align} style={{ height: '1.9rem' }} className="hover-image" alt='error'/>
         </span>
         <span>
-          <img src={edit} style={{ height: '1.8rem', marginLeft: '1.5rem' }} className="hover-image" />
+          <img src={edit} style={{ height: '1.8rem', marginLeft: '1.5rem' }} className="hover-image" alt='error'/>
         </span>
       </div>
     </>
